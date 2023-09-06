@@ -1,0 +1,14 @@
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\bin\Debug\net7.0\ClassesExercise.exe
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\bin\Debug\net7.0\ClassesExercise.deps.json
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\bin\Debug\net7.0\ClassesExercise.runtimeconfig.json
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\bin\Debug\net7.0\ClassesExercise.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\bin\Debug\net7.0\ClassesExercise.pdb
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.AssemblyInfoInputs.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.AssemblyInfo.cs
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.csproj.CoreCompileInputs.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\refint\ClassesExercise.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.pdb
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ClassesExercise.genruntimeconfig.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\ClassesExercise\obj\Debug\net7.0\ref\ClassesExercise.dll
