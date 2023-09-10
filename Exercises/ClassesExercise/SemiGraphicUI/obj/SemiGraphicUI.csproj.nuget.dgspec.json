@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nackademin\\CSharp\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj": {}
+    "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj": {}
   },
   "projects": {
-    "D:\\nackademin\\CSharp\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj": {
+    "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nackademin\\CSharp\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj",
+        "projectUniqueName": "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj",
         "projectName": "SemiGraphicUI",
-        "projectPath": "D:\\nackademin\\CSharp\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj",
-        "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
-        "outputPath": "D:\\nackademin\\CSharp\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\obj\\",
+        "projectPath": "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\SemiGraphicUI.csproj",
+        "packagesPath": "C:\\Users\\HugoE\\.nuget\\packages\\",
+        "outputPath": "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\SemiGraphicUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HugoE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

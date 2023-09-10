@@ -12,3 +12,17 @@ D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\De
 D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.pdb
 D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.genruntimeconfig.cache
 D:\nackademin\CSharp\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\ref\SemiGraphicUI.dll
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\bin\Debug\net7.0\SemiGraphicUI.exe
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\bin\Debug\net7.0\SemiGraphicUI.deps.json
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\bin\Debug\net7.0\SemiGraphicUI.runtimeconfig.json
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\bin\Debug\net7.0\SemiGraphicUI.dll
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\bin\Debug\net7.0\SemiGraphicUI.pdb
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.AssemblyInfoInputs.cache
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.AssemblyInfo.cs
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.csproj.CoreCompileInputs.cache
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.dll
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\refint\SemiGraphicUI.dll
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.pdb
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\SemiGraphicUI.genruntimeconfig.cache
+D:\Nackademin\cms23-csharp\Exercises\ClassesExercise\SemiGraphicUI\obj\Debug\net7.0\ref\SemiGraphicUI.dll
