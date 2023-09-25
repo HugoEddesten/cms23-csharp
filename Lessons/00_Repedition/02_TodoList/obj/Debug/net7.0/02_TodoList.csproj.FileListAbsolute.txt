@@ -1,0 +1,4 @@
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\02_TodoList\obj\Debug\net7.0\02_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\02_TodoList\obj\Debug\net7.0\02_TodoList.csproj.CoreCompileInputs.cache

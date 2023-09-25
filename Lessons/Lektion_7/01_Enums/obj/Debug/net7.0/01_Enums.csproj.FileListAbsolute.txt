@@ -1,0 +1,14 @@
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\bin\Debug\net7.0\01_Enums.exe
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\bin\Debug\net7.0\01_Enums.deps.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\bin\Debug\net7.0\01_Enums.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\bin\Debug\net7.0\01_Enums.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\bin\Debug\net7.0\01_Enums.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\refint\01_Enums.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\01_Enums.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\01_Enums\obj\Debug\net7.0\ref\01_Enums.dll

@@ -1,0 +1,14 @@
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\bin\Debug\net7.0\04_Classes_Inheritance.exe
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\bin\Debug\net7.0\04_Classes_Inheritance.deps.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\bin\Debug\net7.0\04_Classes_Inheritance.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\bin\Debug\net7.0\04_Classes_Inheritance.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\bin\Debug\net7.0\04_Classes_Inheritance.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\refint\04_Classes_Inheritance.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\04_Classes_Inheritance.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\04_Classes_Inheritance\obj\Debug\net7.0\ref\04_Classes_Inheritance.dll

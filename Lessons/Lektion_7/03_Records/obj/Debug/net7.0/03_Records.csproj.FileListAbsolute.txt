@@ -1,0 +1,14 @@
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\bin\Debug\net7.0\03_Records.exe
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\bin\Debug\net7.0\03_Records.deps.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\bin\Debug\net7.0\03_Records.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\bin\Debug\net7.0\03_Records.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\bin\Debug\net7.0\03_Records.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\refint\03_Records.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\03_Records.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion_7\03_Records\obj\Debug\net7.0\ref\03_Records.dll

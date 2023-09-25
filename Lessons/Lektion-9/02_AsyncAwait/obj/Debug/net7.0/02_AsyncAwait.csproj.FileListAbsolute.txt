@@ -1,0 +1,14 @@
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\bin\Debug\net7.0\02_AsyncAwait.exe
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\bin\Debug\net7.0\02_AsyncAwait.deps.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\bin\Debug\net7.0\02_AsyncAwait.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\bin\Debug\net7.0\02_AsyncAwait.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\bin\Debug\net7.0\02_AsyncAwait.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\refint\02_AsyncAwait.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\02_AsyncAwait.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-9\02_AsyncAwait\obj\Debug\net7.0\ref\02_AsyncAwait.dll

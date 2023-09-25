@@ -1,0 +1,14 @@
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.exe
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.deps.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\refint\01_Classes.dll
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.pdb
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\ref\01_Classes.dll

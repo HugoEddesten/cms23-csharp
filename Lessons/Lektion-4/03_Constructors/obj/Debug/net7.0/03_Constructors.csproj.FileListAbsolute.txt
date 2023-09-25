@@ -1,0 +1,4 @@
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\03_Constructors\obj\Debug\net7.0\03_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\03_Constructors\obj\Debug\net7.0\03_Constructors.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\03_Constructors\obj\Debug\net7.0\03_Constructors.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\Lektion-4\03_Constructors\obj\Debug\net7.0\03_Constructors.csproj.CoreCompileInputs.cache

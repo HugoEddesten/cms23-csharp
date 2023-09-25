@@ -2,6 +2,7 @@
 using System.Linq.Expressions;
 using System.Net.Security;
 using System.Runtime.InteropServices;
+using ClassesExercise.Models;
 
 namespace ClassesExercise
 {

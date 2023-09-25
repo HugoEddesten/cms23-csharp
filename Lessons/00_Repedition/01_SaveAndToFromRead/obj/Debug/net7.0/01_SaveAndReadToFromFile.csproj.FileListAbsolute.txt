@@ -1,0 +1,17 @@
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\bin\Debug\net7.0\01_SaveAndReadToFromFile.exe
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\bin\Debug\net7.0\01_SaveAndReadToFromFile.deps.json
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\bin\Debug\net7.0\01_SaveAndReadToFromFile.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\bin\Debug\net7.0\01_SaveAndReadToFromFile.dll
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\bin\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.AssemblyReference.cache
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CopyComplete
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.dll
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\refint\01_SaveAndReadToFromFile.dll
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\01_SaveAndReadToFromFile.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\00_Repedition\01_SaveAndToFromRead\obj\Debug\net7.0\ref\01_SaveAndReadToFromFile.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj": {}
+    "C:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj": {}
   },
   "projects": {
-    "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj": {
+    "C:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj",
+        "projectUniqueName": "C:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj",
         "projectName": "ClassesExercise",
-        "projectPath": "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj",
-        "packagesPath": "C:\\Users\\HugoE\\.nuget\\packages\\",
-        "outputPath": "D:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\obj\\",
+        "projectPath": "C:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\ClassesExercise.csproj",
+        "packagesPath": "C:\\Users\\hugoe\\.nuget\\packages\\",
+        "outputPath": "C:\\Nackademin\\cms23-csharp\\Exercises\\ClassesExercise\\ClassesExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HugoE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hugoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

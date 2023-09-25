@@ -1,0 +1,14 @@
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\bin\Debug\net7.0\02_LoopsAndConditions.exe
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\bin\Debug\net7.0\02_LoopsAndConditions.deps.json
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\bin\Debug\net7.0\02_LoopsAndConditions.runtimeconfig.json
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\bin\Debug\net7.0\02_LoopsAndConditions.dll
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\bin\Debug\net7.0\02_LoopsAndConditions.pdb
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.AssemblyInfoInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.AssemblyInfo.cs
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.csproj.CoreCompileInputs.cache
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.dll
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\refint\02_LoopsAndConditions.dll
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.pdb
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\02_LoopsAndConditions.genruntimeconfig.cache
+C:\Nackademin\cms23-csharp\Lessons\01_Datatypes\02_LoopsAndConditions\obj\Debug\net7.0\ref\02_LoopsAndConditions.dll
