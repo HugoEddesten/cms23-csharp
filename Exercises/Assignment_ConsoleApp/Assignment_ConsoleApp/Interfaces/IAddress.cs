@@ -6,4 +6,5 @@ public interface IAddress
     string PostalCode { get; set; }
     string StreetName { get; set; }
     string StreetNumber { get; set; }
+    string FullAddress { get; }
 }

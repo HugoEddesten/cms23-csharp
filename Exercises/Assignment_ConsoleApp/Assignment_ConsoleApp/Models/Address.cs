@@ -4,8 +4,10 @@ namespace Assignment_ConsoleApp.Models;
 
 public class Address : IAddress
 {
-    public string StreetName { get; set; }
-    public string StreetNumber { get; set; }
-    public string PostalCode { get; set; }
-    public string City { get; set; }
+    public string StreetName { get; set; } = "Empty";
+    public string StreetNumber { get; set; } = "Empty";
+    public string PostalCode { get; set; } = "Empty";
+    public string City { get; set; } = "Empty";
+
+    public string FullAddress => $"{StreetName} {StreetNumber}, {PostalCode} {City}";
 }

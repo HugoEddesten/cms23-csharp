@@ -1,0 +1,14 @@
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\bin\Debug\net7.0\Assignment_ConsoleApp.exe
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\bin\Debug\net7.0\Assignment_ConsoleApp.deps.json
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\bin\Debug\net7.0\Assignment_ConsoleApp.runtimeconfig.json
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\bin\Debug\net7.0\Assignment_ConsoleApp.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\bin\Debug\net7.0\Assignment_ConsoleApp.pdb
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.AssemblyInfoInputs.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.AssemblyInfo.cs
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\refint\Assignment_ConsoleApp.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.pdb
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\Assignment_ConsoleApp.genruntimeconfig.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assignment_ConsoleApp\Assignment_ConsoleApp\obj\Debug\net7.0\ref\Assignment_ConsoleApp.dll
