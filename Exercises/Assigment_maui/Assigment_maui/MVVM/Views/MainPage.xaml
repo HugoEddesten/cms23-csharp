@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Assigment_maui.MVVM.ViewModels"
+             xmlns:models="clr-namespace:Assignment_maui.MVVM.Models"
+             x:DataType="viewmodels:MainViewModel"
+             x:Class="Assigment_maui.MVVM.Views.MainPage"
+             Shell.NavBarIsVisible="False">
+
+
+
+
+
+
+    <Grid RowDefinitions="auto, *, auto" Padding="0, 0, 0, 0">
+
+        <Grid ColumnDefinitions="*,auto" Grid.Row="0" BackgroundColor="#f6f6ff" Padding="10, 0, 0, 0">
+            <Label Grid.Column="0" Text="Contacts" TextColor="Black" FontSize="Header"/>
+            <Button Grid.Column="1" Text="Settings"  TextColor="Black" />
+
+
+
+
+        </Grid>
+
+        <CollectionView Grid.Row="1" ItemsSource="{Binding Contacts}" BackgroundColor="#ededff" Margin="0, 0, 0, 0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:ContactModel}">
+                    <Grid RowDefinitions="*,auto" Padding="0, 10, 0, 10" >
+                        <HorizontalStackLayout Grid.Row="0">
+                            <Label Text="{Binding FirstName}" FontSize="24" Margin="20, 0, 5, 0" TextColor="Black"/>
+                            <Label Text="{Binding LastName}" FontSize="24" Margin="0, 0, 0, 0" TextColor="Black"/>
+                                
+                           
+
+                        </HorizontalStackLayout>
+                        <Grid Grid.Row="1" RowDefinitions="auto,1">
+                            <Label Grid.Row="0" Text="{Binding Phone}" FontSize="16" TextColor="Black" Margin="20, 0, 0, 0"/>
+                            <Rectangle Grid.Row="1" Background="Gray" Margin="10,0,50,0"/>
+                        </Grid>
+                        
+
+                        <Grid.GestureRecognizers>
+                            <TapGestureRecognizer CommandParameter="{Binding .}" Command="{Binding Path=GoToDetailsCommand, Source={RelativeSource AncestorType={x:Type viewmodels:MainViewModel}}}"/>
+                        </Grid.GestureRecognizers>
+                        
+                    </Grid>
+
+                    
+
+
+
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    
+        
+        
+        <Grid Grid.Row="2"  ColumnDefinitions="auto, *, auto" 
+              BackgroundColor="#f6f6ff" 
+              Padding="0, 0, 0, 0">
+
+            <Button Grid.Column="0" Text="New Contact" FontSize="20" TextColor="Black" Command="{Binding Path=GoToAddCommand, Source={RelativeSource AncestorType={x:Type viewmodels:MainViewModel}}}" />
+            <Button Grid.Column="2" Text="Favourites" FontSize="20" TextColor="Black" Command="{Binding Path=GoToFavouritesCommand, Source={RelativeSource AncestorType={x:Type viewmodels:MainViewModel}}}" />    
+
+
+        </Grid>
+        
+        
+        
+
+
+    </Grid>
+
+</ContentPage>

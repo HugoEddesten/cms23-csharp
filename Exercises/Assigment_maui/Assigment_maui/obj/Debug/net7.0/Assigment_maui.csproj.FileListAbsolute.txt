@@ -1,0 +1,13 @@
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\bin\Debug\net7.0\Assigment_maui.deps.json
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\bin\Debug\net7.0\Assigment_maui.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\bin\Debug\net7.0\Assigment_maui.pdb
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.csproj.AssemblyReference.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.GeneratedMSBuildEditorConfig.editorconfig
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.AssemblyInfoInputs.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.AssemblyInfo.cs
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.csproj.CoreCompileInputs.cache
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\XamlC.stamp
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\refint\Assigment_maui.dll
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\Assigment_maui.pdb
+D:\nackademin\CSharp\cms23-csharp\Exercises\Assigment_maui\Assigment_maui\obj\Debug\net7.0\ref\Assigment_maui.dll

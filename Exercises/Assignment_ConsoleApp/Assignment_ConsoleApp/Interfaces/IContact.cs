@@ -1,13 +1,13 @@
-﻿namespace Assignment_ConsoleApp.Interfaces
+﻿namespace Assignment_ConsoleApp.Models
 {
     public interface IContact
     {
-        Guid Id { get; set; }
+        //Guid Id { get; set; }
         DateTime Created { get; set; }
         string FirstName { get; set; }
         string LastName { get; set; }
         string FullName { get; }
-        IAddress Address { get; set; }
+        Address Address { get; set; }
         string Phone { get; set; }
         string Email { get; set; }
     }

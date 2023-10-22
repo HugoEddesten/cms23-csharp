@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assigment_maui.MVVM.Views.DetailsPage"
+             x:DataType="viewmodels:DetailsViewModel"
+             xmlns:viewmodels="clr-namespace:Assigment_maui.MVVM.ViewModels"
+             xmlns:models="clr-namespace:Assignment_maui.MVVM.Models"
+             Title="DetailsPage"
+             Shell.NavBarIsVisible="false"
+             >
+    
+    <!--Creates the grid on which the page is built--> 
+    <Grid RowDefinitions="*,auto ,auto, auto" BackgroundColor="#ededff" Padding="0,0,0,0" >
+        
+        <!--Grid Row 0-->
+        <Image Grid.Row="0" Source="user_icon.png" BackgroundColor="#f6f6ff" />
+
+        <!--Grid Row 1-->
+        <Label Grid.Row="1" Text="{Binding Contact.FullName}" TextColor="Black" FontSize="Header" HorizontalOptions="Center" BackgroundColor="#ededff" Margin="0,0,0,0"/>
+        
+        <!--Grid row 2-->
+        <VerticalStackLayout Grid.Row="2" Margin="20,50, 20, 0" HorizontalOptions="Center" MinimumHeightRequest="500">
+
+            <Label Text="{Binding Contact.Phone}" TextColor="Black" FontSize="24" />
+            <Rectangle ScaleY="0.1" BackgroundColor="Gray" />
+            <Label Text="{Binding Contact.Email}" TextColor="Black" FontSize="24" Margin="0,10,0,0" />
+            <Rectangle ScaleY="0.1" BackgroundColor="Gray" />
+            <Label Text="{Binding Contact.Address.FullAddress}" TextColor="Black" FontSize="24" Margin="0,10,0,0" />
+            <Rectangle ScaleY="0.1" BackgroundColor="Gray" />
+
+        </VerticalStackLayout>
+
+        <!--Grid row 3-->
+        <Button Grid.Row="2" Text="Edit" HorizontalOptions="End" VerticalOptions="Start" BackgroundColor="CadetBlue" TextColor="Black" CommandParameter="{Binding Contact}" Command="{Binding GoToEditCommand, Source={RelativeSource AncestorType={x:Type viewmodels:DetailsViewModel}}}"/>
+        <Button Grid.Row="2" Text="Remove Contact" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="IndianRed" TextColor="White" Command="{Binding RemoveButtonPressedCommand, Source={RelativeSource AncestorType={x:Type viewmodels:DetailsViewModel}}}"/>
+
+    </Grid>
+</ContentPage>

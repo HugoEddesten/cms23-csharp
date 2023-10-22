@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBU8gAZrLfto0KRrCUDpHrYMqtTLHj89ia3QJcZZaFmTfvlw2ZLA0QDZqUeLvBB4xPXSdP2y0Ie5HdnUOFiIOg==",
+  "dgSpecHash": "O1ZiAjroA8uBqJnRXa+dztL4Hb4tI+yxvKhcYjacENLgnYBGWnXwETN/r/jZ2j47t6gBVDU46NWBhMGmtJMmpQ==",
   "success": true,
-  "projectFilePath": "C:\\Nackademin\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj",
+  "projectFilePath": "D:\\nackademin\\CSharp\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

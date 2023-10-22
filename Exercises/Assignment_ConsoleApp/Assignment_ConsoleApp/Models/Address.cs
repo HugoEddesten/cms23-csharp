@@ -2,7 +2,7 @@
 
 namespace Assignment_ConsoleApp.Models;
 
-public class Address : IAddress
+public class Address //: IAddress
 {
     public string StreetName { get; set; } = "Empty";
     public string StreetNumber { get; set; } = "Empty";

@@ -1,5 +1,7 @@
 ﻿using Assignment_ConsoleApp.Interfaces;
 using Assignment_ConsoleApp.Models;
+using Newtonsoft.Json;
+using System;
 
 namespace Assignment_ConsoleApp.Services;
 
@@ -7,13 +9,18 @@ internal class ContactService : IContactService
 {
     private List<IContact> _contacts = new List<IContact>();
 
+
     public void AddContact(IContact contact)
     {
         _contacts.Add(contact);
+        string contentAsJson = JsonConvert.SerializeObject(_contacts);
+        FileService.SaveToFile(contentAsJson);
     }
     public void RemoveContact(IContact contact)
     {
         _contacts.Remove(contact);
+        string contentAsJson = JsonConvert.SerializeObject(_contacts);
+        FileService.SaveToFile(contentAsJson);
     }
     public IContact GetContact(uint index)
     {
@@ -35,10 +42,13 @@ internal class ContactService : IContactService
     {
         try
         {
+            string contentAsJson = FileService.ReadFromFile();
+            List<Contact> contactsAsClass = JsonConvert.DeserializeObject<List<Contact>>(contentAsJson)!;
+            _contacts = contactsAsClass.Cast<IContact>().ToList();
+
             return _contacts;
         }
-        catch (Exception) { }
-        return null!;
+        catch (Exception) { return _contacts; }
     }
 
 }

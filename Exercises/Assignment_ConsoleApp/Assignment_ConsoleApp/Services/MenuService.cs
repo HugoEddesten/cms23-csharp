@@ -38,7 +38,7 @@ internal class MenuService
         contact.Phone = phone;
 
         // Creates an Address object
-        IAddress address = new Address();
+        Address address = new Address();
         
         Console.Write("Streetname: ");
         string streetName = Console.ReadLine() ?? "";
@@ -214,12 +214,18 @@ internal class MenuService
                 Console.Write("New city/region: ");
                 contact.Address.City = Console.ReadLine() ?? ""; ;
                 break;
+
         }
+        // Refresh the json-file. Should probably just implement a method for this somewhere...
+        contactService.AddContact(contact);
+        contactService.RemoveContact(contact);
+        
         EditContactMenu(contact);
     }
 
     public static void MainMenu()
     {
+        /*
         IContact contact = new Contact
         {
             FirstName = "Hugo",
@@ -250,7 +256,7 @@ internal class MenuService
             }
         };
         contactService.AddContact(contact2);
-
+        */
         bool isRunning = true;
         do
         {

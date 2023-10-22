@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nackademin\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj": {}
+    "D:\\nackademin\\CSharp\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj": {}
   },
   "projects": {
-    "C:\\Nackademin\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj": {
+    "D:\\nackademin\\CSharp\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nackademin\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj",
+        "projectUniqueName": "D:\\nackademin\\CSharp\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj",
         "projectName": "02_AsyncAwait",
-        "projectPath": "C:\\Nackademin\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj",
-        "packagesPath": "C:\\Users\\hugoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Nackademin\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\obj\\",
+        "projectPath": "D:\\nackademin\\CSharp\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\02_AsyncAwait.csproj",
+        "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
+        "outputPath": "D:\\nackademin\\CSharp\\cms23-csharp\\Lessons\\Lektion-9\\02_AsyncAwait\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hugoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

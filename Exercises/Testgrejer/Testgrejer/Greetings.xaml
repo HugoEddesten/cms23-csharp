@@ -1,0 +1,16 @@
+﻿<Window x:Class="Testgrejer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Testgrejer"
+        mc:Ignorable="d"
+        Title="Greetings" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Press a button" Margin="0,60,0,357" Width="80"/>
+        <RadioButton x:Name="HelloButton" Content="Hello" Margin="280,137,432,279" IsChecked="True"/>
+        <RadioButton x:Name="GoodbyeButton" Content="Goodbye" Margin="400,137,294,279"/>
+        <Button Content="Display" Margin="354,321,354,90" Click="Button_Click"/>
+
+    </Grid>
+</Window>

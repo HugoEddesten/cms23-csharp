@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assigment_maui</name>
+    </assembly>
+    <members>
+        <member name="T:Assigment_maui.MVVM.ViewModels.AddViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.AddViewModel.Contact">
+            <inheritdoc cref="F:Assigment_maui.MVVM.ViewModels.AddViewModel.contact"/>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.AddViewModel.saveContactCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.AddViewModel.SaveContactCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.AddViewModel.SaveContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.AddViewModel.SaveContact"/>.</summary>
+        </member>
+        <member name="T:Assigment_maui.MVVM.ViewModels.DetailsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.DetailsViewModel.Contact">
+            <inheritdoc cref="F:Assigment_maui.MVVM.ViewModels.DetailsViewModel.contact"/>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.DetailsViewModel.removeButtonPressedCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.DetailsViewModel.RemoveButtonPressedCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.DetailsViewModel.RemoveButtonPressedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.DetailsViewModel.OnRemoveButtonPressed"/>.</summary>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.DetailsViewModel.goToEditCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.DetailsViewModel.GoToEditCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.DetailsViewModel.GoToEditCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.DetailsViewModel.GoToEdit(Assignment_maui.MVVM.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="T:Assigment_maui.MVVM.ViewModels.EditViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.EditViewModel.Contact">
+            <inheritdoc cref="F:Assigment_maui.MVVM.ViewModels.EditViewModel.contact"/>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.EditViewModel.saveContactCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.EditViewModel.SaveContactCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.EditViewModel.SaveContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.EditViewModel.SaveContact"/>.</summary>
+        </member>
+        <member name="T:Assigment_maui.MVVM.ViewModels.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.MainViewModel.Contacts">
+            <inheritdoc cref="F:Assigment_maui.MVVM.ViewModels.MainViewModel.contacts"/>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.MainViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToDetails(Assignment_maui.MVVM.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.MainViewModel.goToAddCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToAddCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToAddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToAdd"/>.</summary>
+        </member>
+        <member name="F:Assigment_maui.MVVM.ViewModels.MainViewModel.goToFavouritesCommand">
+            <summary>The backing field for <see cref="P:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToFavouritesCommand"/>.</summary>
+        </member>
+        <member name="P:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToFavouritesCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Assigment_maui.MVVM.ViewModels.MainViewModel.GoToFavourites"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+    </members>
+</doc>

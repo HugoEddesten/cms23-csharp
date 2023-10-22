@@ -4,12 +4,12 @@ namespace Assignment_ConsoleApp.Models;
 
 public class Contact : IContact
 {
-    public Guid Id { get; set; }
+    //public Guid Id { get; set; } = Guid.NewGuid();
     public DateTime Created { get; set; } = DateTime.Now;
     public string FirstName { get; set; } = "Empty";
     public string LastName { get; set; } = "Empty";
     public string FullName => $"{FirstName} {LastName}";
     public string Email { get; set; } = "Empty";
     public string Phone { get; set; } = "Empty";
-    public IAddress Address { get; set; } = null!;
+    public Address Address { get; set; } = null!;
 }

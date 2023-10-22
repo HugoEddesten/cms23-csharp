@@ -1,4 +1,5 @@
-﻿namespace Assignment_ConsoleApp.Interfaces;
+﻿/*
+namespace Assignment_ConsoleApp.Interfaces;
 
 public interface IAddress
 {
@@ -8,3 +9,4 @@ public interface IAddress
     string StreetNumber { get; set; }
     string FullAddress { get; }
 }
+*/

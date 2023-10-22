@@ -10,12 +10,12 @@ public class CustomerService : ICustomerService
     public void AddCustomerMenu(ICustomer customer)
     {
         _customers.Add(customer);
-        Task.Run(() =>FileService.SaveToFileAsync(_filePath, ""));
+        Task.Run(() => FileService.SaveToFileAsync(_filePath, ""));
     }
 
     public void RemoveCustomer(string email)
     {
-        var customer = GetOneCustomer(email);
+        ICustomer customer = GetOneCustomer(email);
         _customers.Remove(customer);
     }
 
